@@ -5,7 +5,7 @@
 <br/>
 
 
-# Research internship in semantic segmentation for panoramic images.
+# Rapport final de stage
 <br/>
 <br/>
 
