@@ -5,12 +5,12 @@
 <br/>
 
 
-# Research internship in semantic segmentation for panoramic images.
+# Code pour le l'execution du programme
 <br/>
 <br/>
 
 
-&nbsp; • &nbsp;[LVSN](http://vision.gel.ulaval.ca/fr/about/index.php) (Laboratoire de recherche)
+[LVSN](http://vision.gel.ulaval.ca/fr/about/index.php) (Laboratoire de recherche)
 &nbsp; • &nbsp;[Institut intelligence et données (IID)](https://iid.ulaval.ca/) (Institut de recherche)
 &nbsp; • &nbsp;[Sentinelle Nord](https://sentinellenord.ulaval.ca/projets-de-recherche/design-biophilique-dans-larctique-co-creation-communautaire) (Projet)
 &nbsp; • &nbsp;[Groupe J-F Lalonde](http://vision.gel.ulaval.ca/~jflalonde/students/) (Equipe)
