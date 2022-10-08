@@ -44,9 +44,9 @@
 
 **Le projet s'est déroulé en 3 phases**:  
 
-* Phase 1: Recherche et analyse de la segmentation sémantique
-* Phase 2: Tests sur les deux modèles sélectionnés
-* Phase 3: Generate masks
+* *Phase 1*: Recherche et analyse de la segmentation sémantique
+* *Phase 2*: Tests sur les deux modèles sélectionnés
+* *Phase 3*: Generate masks
   
 Dans ce référentiel, il y a 3 dossiers, un pour le code, un pour les données, un pour les images à visualiser dans le wiki et un autre pour le rapport final.
   
@@ -56,72 +56,49 @@ Dans ce référentiel, il y a 3 dossiers, un pour le code, un pour les données,
 ## Structure
   
 Computer-Vision-Research-Project-main  
-│  
-├── code  
-│      │  
-│      ├── COCO  
-│      │      ├── fold1  
-│      │      │       └── fil1  
-│      │      ├── ... 
-│      │      ├── foldn  
-│      │      │       └── filn 
-│      │      ├── LICENSE  
-│      │      └── README.md  
-│      │  
-│      ├── Matterport3D  
-│      │      ├── fold1  
-│      │      │       └── fil1  
-│      │      ├── ... 
-│      │      ├── foldn  
-│      │      │       └── filn 
-│      │      ├── LICENSE  
-│      │      └── README.md  
-│      │  
-│      ├── Other  
-│      │      ├── fold1  
-│      │      │       └── fil1  
-│      │      ├── ... 
-│      │      ├── foldn  
-│      │      │       └── filn 
-│      │      ├── LICENSE  
-│      │      └── README.md  
-│      │  
-│      └── README.md  
-│     
-├── data  
-│      │  
-│      ├── COCO_detection  
-│      │      ├── image_1.png  
-│      │      ├── ...    
-│      │      ├── image_n.png
-│      │      └── README.md  
-│      │  
-│      ├── Matterport3D  
-│      │      ├── image_1.png  
-│      │      ├── ...    
-│      │      ├── image_n.png
-│      │      └── README.md  
-│      │ 
-│      ├── stanford2D  
-│      │      ├── image_1.png  
-│      │      ├── ...    
-│      │      ├── image_n.png
-│      │      └── README.md  
-│      │  
-│      └── README.md  
-│     
-├── images  
-│      │  
-│      ├── image_1.png  
-│      ├── ...  
-│      └── image_n.png  
-|  
-├── rapport  
-│      ├── Rapport_final_de_stage.pdf  
-│      └── README.md  
-│  
-└── README.md 
 
+- **code**  
+  - infer_depth_all.ipynb
+  - infer_layout_all.ipynb
+  - infer_sem_all.ipynb
+  - README.md  
+<br/>
+- **data**  
+  - **applications**
+    - **1.COCO_detection**  
+      - API COCO Python
+      - README.md  
+    - **2.Matterport3D**  
+      - image_1.png  
+      - ...    
+      - image_n.png
+      README.md  
+    - **3.Stanford2D3D**  
+      - image_1.png  
+      - ...    
+      - image_n.png
+      README.md  
+  - **input**
+    - image_1.png  
+    - ...  
+    - image_n.png  
+  - **output**
+    - image_1.png  
+    - ...  
+    - image_n.png  
+  - **panocontext**
+    - pano_asmasuxybohhcj.png
+  - README.md
+<br/>
+- **images**  
+  - image_1.png  
+  - ...  
+  - image_n.png  
+<br/>
+- **rapport**  
+  - Rapport_final_de_stage.pdf  
+  - README.md  
+<br/>
 <br/>
 <br/>
   
