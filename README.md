@@ -11,8 +11,8 @@
 
 
 <p align='center'>
-  <a href="https://github.com/isabelleysseric/Traffic-sign-detector">Traffic-sign-detector</a> (GitHub)
-  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Traffic-sign-detector/wiki">Traffic-sign-detector</a> (Wiki)
+  <a href="https://github.com/isabelleysseric/Computer-Vision-Research-Project">Computer-Vision-Research-Project</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Computer-Vision-Research-Project/wiki">Computer-Vision-Research-Project</a> (Wiki)
   &nbsp; • &nbsp;<a href="http://vision.gel.ulaval.ca/fr/about/index.php">LVSN</a> (Laboratoire de recherche)
   &nbsp; • &nbsp;<a href="https://iid.ulaval.ca/">Institut intelligence et données (IID)</a> (Institut de recherche)
   &nbsp; • &nbsp;<a href="https://sentinellenord.ulaval.ca/projets-de-recherche/design-biophilique-dans-larctique-co-creation-communautaire">Sentinelle Nord</a> (Projet)
