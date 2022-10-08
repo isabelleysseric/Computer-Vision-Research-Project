@@ -19,7 +19,6 @@
   &nbsp; • &nbsp;<a href="http://vision.gel.ulaval.ca/~jflalonde/students/">Groupe J-F Lalonde</a> (Equipe)
   &nbsp; • &nbsp;<a href="https://iid-ulaval.slack.com/archives/C0141TJKPH7">iid-ulaval</a> (Slack)
   &nbsp; • &nbsp;<a href="http://wcours.gel.ulaval.ca/GIF4105/index.html">Photographie Algorithmique</a> (Cours)<br/>
-  
   <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
   &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
   &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/>
