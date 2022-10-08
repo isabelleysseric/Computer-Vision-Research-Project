@@ -5,7 +5,7 @@
 <br/>
 
 
-# Code pour le l'execution du programme
+# Ensemble de données de Stanford S2D3D 
 <br/>
 <br/>
 

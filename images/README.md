@@ -5,22 +5,24 @@
 <br/>
 
 
-# Images
+# Images du Wiki
 <br/>
 <br/>
 
 
-[LVSN](http://vision.gel.ulaval.ca/fr/about/index.php) (Laboratoire de recherche)
-&nbsp; • &nbsp;[Institut intelligence et données (IID)](https://iid.ulaval.ca/) (Institut de recherche)
-&nbsp; • &nbsp;[Sentinelle Nord](https://sentinellenord.ulaval.ca/projets-de-recherche/design-biophilique-dans-larctique-co-creation-communautaire) (Projet)
-&nbsp; • &nbsp;[Groupe J-F Lalonde](http://vision.gel.ulaval.ca/~jflalonde/students/) (Equipe)
-&nbsp; • &nbsp;[iid-ulaval](https://iid-ulaval.slack.com/archives/C0141TJKPH7) (Slack)
-&nbsp; • &nbsp;[Photographie Algorithmique](http://wcours.gel.ulaval.ca/GIF4105/index.html) (Cours)
-&nbsp; • &nbsp;[Computer-Vision-Research-Project](https://github.com/isabelleysseric/Computer-Vision-Research-Project) (GitHub)
-&nbsp; • &nbsp;[Computer-Vision-Research-Project](https://github.com/isabelleysseric/Computer-Vision-Research-Project/wiki) (Wiki)
-&nbsp; • &nbsp;[isabelleysseric](https://hub.docker.com/u/isabelleysseric) (Docker)
-&nbsp; • &nbsp;[isabelleysseric.com](https://isabelleysseric.com) (Portfolio)
-&nbsp; • &nbsp;[isabelle-eysseric](https://www.linkedin.com/in/isabelle-eysseric/) (Linkedin)
+<p align='center'>
+  <a href="https://github.com/isabelleysseric/Computer-Vision-Research-Project">Computer-Vision-Research-Project</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Computer-Vision-Research-Project/wiki">Computer-Vision-Research-Project</a> (Wiki)
+  &nbsp; • &nbsp;<a href="http://vision.gel.ulaval.ca/fr/about/index.php">LVSN</a> (Laboratoire de recherche)
+  &nbsp; • &nbsp;<a href="https://iid.ulaval.ca/">Institut intelligence et données (IID)</a> (Institut de recherche)
+  &nbsp; • &nbsp;<a href="https://sentinellenord.ulaval.ca/projets-de-recherche/design-biophilique-dans-larctique-co-creation-communautaire">Sentinelle Nord</a> (Projet)
+  &nbsp; • &nbsp;<a href="http://vision.gel.ulaval.ca/~jflalonde/students/">Groupe J-F Lalonde</a> (Equipe)
+  &nbsp; • &nbsp;<a href="https://iid-ulaval.slack.com/archives/C0141TJKPH7">iid-ulaval</a> (Slack)
+  &nbsp; • &nbsp;<a href="http://wcours.gel.ulaval.ca/GIF4105/index.html">Photographie Algorithmique</a> (Cours)<br/><br/>
+  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn)<br/>
+</p>
 <br/>
 <br/>
 

@@ -5,7 +5,7 @@
 <br/>
 
 
-# Code pour le l'execution du programme
+# Modèle HohoNet
 <br/>
 <br/>
 
