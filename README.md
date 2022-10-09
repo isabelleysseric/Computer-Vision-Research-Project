@@ -64,14 +64,6 @@ Computer-Vision-Research-Project
   - README.md<br/>  
 <br/>
 
-- **code**<br/>  
-  - *infer_depth_all.ipynb*<br/>  
-  - *infer_layout_all.ipynb*<br/>  
-  - *infer_sem_all.ipynb*<br/>  
-  - README.md<br/>  
-<br/>
-
-
 - **data**<br/>  
   - **applications**<br/>
     - **1.COCO_detection**<br/>  
@@ -99,11 +91,13 @@ Computer-Vision-Research-Project
     - *pano_asmasuxybohhcj.png*<br/>
   - README.md<br/>
 <br/>
+
 - **images**<br/>
   - *image_1.png*<br/>
   - *...*<br/>
   - *image_n.png*<br/>
 <br/>
+
 - **rapport**<br/>
   - *Rapport_final_de_stage.pdf*<br/>
   - README.md<br/>
