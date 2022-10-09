@@ -55,49 +55,49 @@ Dans ce référentiel, il y a 3 dossiers, un pour le code, un pour les données,
   
 ## Structure
   
-Computer-Vision-Research-Project-main  
+Computer-Vision-Research-Project  
 
-- **code**  
-  - *infer_depth_all.ipynb*  
-  - *infer_layout_all.ipynb*  
-  - *infer_sem_all.ipynb*  
-  - README.md  
+- **code**<br/>  
+  - *infer_depth_all.ipynb*<br/>  
+  - *infer_layout_all.ipynb*<br/>  
+  - *infer_sem_all.ipynb*<br/>  
+  - README.md<br/>  
 <br/>
-- **data**  
-  - **applications**  
-    - **1.COCO_detection**  
-      - API COCO Python  
-      - README.md  
-    - **2.Matterport3D**   
-      - *image_1.png*  
-      - *...*    
-      - *image_n.png*  
-      README.md  
-    - **3.Stanford2D3D**  
-      - *image_1.png*  
-      - *...*    
-      - *image_n.png*  
-      README.md  
-  - **input**  
-    - *image_1.png*  
-    - *...*  
-    - *image_n.png*  
-  - **output**  
-    - *image_1.png*  
-    - *...*  
-    - *image_n.png*  
-  - **panocontext**  
-    - *pano_asmasuxybohhcj.png*  
-  - README.md  
+- **data**<br/>  
+  - **applications**<br/>
+    - **1.COCO_detection**<br/>  
+      - API COCO Python<br/>  
+      - README.md<br/>  
+    - **2.Matterport3D**<br/>   
+      - *image_1.png*<br/>  
+      - *...*<br/>    
+      - *image_n.png*<br/>  
+      - README.md<br/>  
+    - **3.Stanford2D3D**<br/>
+      - *image_1.png*<br/>
+      - *...*<br/>
+      - *image_n.png*<br/>
+      - README.md<br/>
+  - **input**<br/>
+    - *image_1.png*<br/>
+    - *...*<br/>
+    - *image_n.png*<br/>
+  - **output**<br/>
+    - *image_1.png*<br/>
+    - *...*<br/>
+    - *image_n.png*<br/>
+  - **panocontext**<br/>
+    - *pano_asmasuxybohhcj.png*<br/>
+  - README.md<br/>
 <br/>
-- **images**   
-  - *image_1.png*  
-  - ...  
-  - *image_n.png*  
+- **images**<br/>
+  - *image_1.png*<br/>
+  - *...*<br/>
+  - *image_n.png*<br/>
 <br/>
-- **rapport**  
-  - *Rapport_final_de_stage.pdf*  
-  - README.md  
+- **rapport**<br/>
+  - *Rapport_final_de_stage.pdf*<br/>
+  - README.md<br/>
 <br/>
 <br/>
 <br/>
