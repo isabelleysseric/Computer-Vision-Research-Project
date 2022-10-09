@@ -58,45 +58,45 @@ Dans ce référentiel, il y a 3 dossiers, un pour le code, un pour les données,
 Computer-Vision-Research-Project-main  
 
 - **code**  
-  - infer_depth_all.ipynb
-  - infer_layout_all.ipynb
-  - infer_sem_all.ipynb
+  - *infer_depth_all.ipynb*  
+  - *infer_layout_all.ipynb*  
+  - *infer_sem_all.ipynb*  
   - README.md  
 <br/>
 - **data**  
-  - **applications**
+  - **applications**  
     - **1.COCO_detection**  
-      - API COCO Python
+      - API COCO Python  
       - README.md  
-    - **2.Matterport3D**  
-      - image_1.png  
-      - ...    
-      - image_n.png
+    - **2.Matterport3D**   
+      - *image_1.png*  
+      - *...*    
+      - *image_n.png*  
       README.md  
     - **3.Stanford2D3D**  
-      - image_1.png  
-      - ...    
-      - image_n.png
+      - *image_1.png*  
+      - *...*    
+      - *image_n.png*  
       README.md  
-  - **input**
-    - image_1.png  
-    - ...  
-    - image_n.png  
-  - **output**
-    - image_1.png  
-    - ...  
-    - image_n.png  
-  - **panocontext**
-    - pano_asmasuxybohhcj.png
-  - README.md
+  - **input**  
+    - *image_1.png*  
+    - *...*  
+    - *image_n.png*  
+  - **output**  
+    - *image_1.png*  
+    - *...*  
+    - *image_n.png*  
+  - **panocontext**  
+    - *pano_asmasuxybohhcj.png*  
+  - README.md  
 <br/>
-- **images**  
-  - image_1.png  
+- **images**   
+  - *image_1.png*  
   - ...  
-  - image_n.png  
+  - *image_n.png*  
 <br/>
 - **rapport**  
-  - Rapport_final_de_stage.pdf  
+  - *Rapport_final_de_stage.pdf*  
   - README.md  
 <br/>
 <br/>
