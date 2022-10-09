@@ -63,6 +63,15 @@ Computer-Vision-Research-Project
   - *infer_sem_all.ipynb*<br/>  
   - README.md<br/>  
 <br/>
+
+- **code**<br/>  
+  - *infer_depth_all.ipynb*<br/>  
+  - *infer_layout_all.ipynb*<br/>  
+  - *infer_sem_all.ipynb*<br/>  
+  - README.md<br/>  
+<br/>
+
+
 - **data**<br/>  
   - **applications**<br/>
     - **1.COCO_detection**<br/>  
