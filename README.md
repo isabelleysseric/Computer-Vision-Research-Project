@@ -5,7 +5,7 @@
 <br/>
 
 
-# Stage de recherche en segmentation sémantique des images panoramiques
+# Research internship in semantic segmentation of panoramic images
 <br/>
 <br/>
 
@@ -13,15 +13,15 @@
 <p align='center'>
   <a href="https://github.com/isabelleysseric/Computer-Vision-Research-Project">Computer-Vision-Research-Project</a> (GitHub)
   &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Computer-Vision-Research-Project/wiki">Computer-Vision-Research-Project</a> (Wiki)
-  &nbsp; • &nbsp;<a href="http://vision.gel.ulaval.ca/fr/about/index.php">LVSN</a> (Laboratoire de recherche)
-  &nbsp; • &nbsp;<a href="https://iid.ulaval.ca/">Institut intelligence et données (IID)</a> (Institut de recherche)
+  &nbsp; • &nbsp;<a href="http://vision.gel.ulaval.ca/fr/about/index.php">LVSN</a> (Research Laboratory)
+  &nbsp; • &nbsp;<a href="https://iid.ulaval.ca/">Institut intelligence et données (IID)</a> (research Institute)
   &nbsp; • &nbsp;<a href="https://sentinellenord.ulaval.ca/projets-de-recherche/design-biophilique-dans-larctique-co-creation-communautaire">Sentinelle Nord</a> (Projet)
-  &nbsp; • &nbsp;<a href="http://vision.gel.ulaval.ca/~jflalonde/students/">Groupe J-F Lalonde</a> (Equipe)
+  &nbsp; • &nbsp;<a href="http://vision.gel.ulaval.ca/~jflalonde/students/">J-F Lalonde Group</a> (Team)
   &nbsp; • &nbsp;<a href="https://iid-ulaval.slack.com/archives/C0141TJKPH7">iid-ulaval</a> (Slack)
-  &nbsp; • &nbsp;<a href="http://wcours.gel.ulaval.ca/GIF4105/index.html">Photographie Algorithmique</a> (Cours)<br/><br/>
+  &nbsp; • &nbsp;<a href="http://wcours.gel.ulaval.ca/GIF4105/index.html">Algorithmic Photography</a> (Course)<br/><br/>
   <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
   &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
-  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn)<br/>
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelleysseric</a> (LinkedIn)<br/>
 </p>
 <br/>
 <br/>
@@ -34,21 +34,22 @@
 
 ## Introduction
 
-**Objectif du projet**: Generer les masques pour la segmentation semantique
+**Project objective**: Generate masks for semantic segmentation
 
 <br/>
   
-**Resultats**: Generer les masques pour la segmentation semantique, l'estimation de profondeur et l'estimation de position
+**Results**: Generate masks for semantic segmentation, depth estimation and position estimation
 
 <br/>
 
-**Le projet s'est déroulé en 3 phases**:  
+**The project took place in 3 phases**:
 
-* *Phase 1*: Recherche et analyse de la segmentation sémantique
-* *Phase 2*: Tests sur les deux modèles sélectionnés
+* *Phase 0*: Training on IA, DL and CV
+* *Phase 1*: Research and analysis of semantic segmentation
+* *Phase 2*: Tests on the two selected models
 * *Phase 3*: Generate masks
-  
-Dans ce référentiel, il y a 3 dossiers, un pour le code, un pour les données, un pour les images à visualiser dans le wiki et un autre pour le rapport final.
+
+In this repository there are 3 folders, one for the code, one for the data, one for the images to be viewed in the wiki and another for the final report.
   
 <br/>
 <br/>
