@@ -15,13 +15,12 @@
   &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Computer-Vision-Research-Project/wiki">Computer-Vision-Research-Project</a> (Wiki)
   &nbsp; • &nbsp;<a href="http://vision.gel.ulaval.ca/fr/about/index.php">LVSN</a> (Research Laboratory)
   &nbsp; • &nbsp;<a href="https://iid.ulaval.ca/">Institut intelligence et données (IID)</a> (research Institute)
-  &nbsp; • &nbsp;<a href="https://sentinellenord.ulaval.ca/projets-de-recherche/design-biophilique-dans-larctique-co-creation-communautaire">Sentinelle Nord</a> (Projet)
+  &nbsp; • &nbsp;<a href="https://sentinellenord.ulaval.ca/projets-de-recherche/design-biophilique-dans-larctique-co-creation-communautaire">Sentinelle Nord</a> (Project)
   &nbsp; • &nbsp;<a href="http://vision.gel.ulaval.ca/~jflalonde/students/">J-F Lalonde Group</a> (Team)
-  &nbsp; • &nbsp;<a href="https://iid-ulaval.slack.com/archives/C0141TJKPH7">iid-ulaval</a> (Slack)
   &nbsp; • &nbsp;<a href="http://wcours.gel.ulaval.ca/GIF4105/index.html">Algorithmic Photography</a> (Course)<br/><br/>
   <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
   &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
-  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelleysseric</a> (LinkedIn)<br/>
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelleysseric/">isabelleysseric</a> (LinkedIn)<br/>
 </p>
 <br/>
 <br/>
